@@ -14,10 +14,12 @@ def process_weather_data():
             processed_data.append({
                 'city': city_name,
                 'date': daily_data['Date'],
-                'temp_max': daily_data['Température Max (°C)'],
-                'temp_min': daily_data['Température Min (°C)'],
-                'humidity': daily_data['Humidité (%)'],
-                'rain_probability': daily_data['Chance de Pluie (%)'],
+                'temp_max (°C)': float(daily_data['Température Max (°C)']),
+                'temp_min (°C)': float(daily_data['Température Min (°C)']),
+                'pression (hPa)': int(daily_data['Pression (hPa)']),  
+                'vitesse de vent (m/s)': float(daily_data['Vitesse du vent (m/s)']),  
+                'humidity (%)': int(daily_data['Humidité (%)']),
+                'rain_probability (%)': float(daily_data['Chance de Pluie (%)']),
             })
     
     df = pd.DataFrame(processed_data)

@@ -41,9 +41,11 @@ def fetch_weather_data():
                     "Température (°C)": entry["main"]["temp"],
                     "Température Max (°C)": entry["main"]["temp_max"],
                     "Température Min (°C)": entry["main"]["temp_min"],
+                    "Pression (hPa)": entry["main"]["pressure"],  
+                    "Vitesse du vent (m/s)": entry["wind"]["speed"],  
                     "Humidité (%)": entry["main"]["humidity"],
                     "Chance de Pluie (%)": entry.get("pop", 0) * 100
-                })
+})
 
             weather_data.append(forecast)
 

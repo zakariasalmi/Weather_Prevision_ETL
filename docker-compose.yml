@@ -9,7 +9,7 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - postgres_previsions_data:/var/lib/postgresql/data  # Correction du chemin du volume
+      - Weather_data:/var/lib/postgresql/data  # Correction du chemin du volume
 
   webserver:
     image: apache/airflow:2.4.3
@@ -56,4 +56,4 @@ services:
     command: airflow scheduler
 
 volumes:
-  postgres_previsions_data:  # Déclaration du volume
+  Weather_data:  # Déclaration du volume

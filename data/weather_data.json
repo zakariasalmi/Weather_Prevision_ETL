@@ -3,324 +3,404 @@
         "Ville": "Agadir",
         "Previsions": [
             {
-                "Date": "2025-02-10 18:00:00",
-                "Température (°C)": 24.25,
-                "Température Max (°C)": 24.25,
-                "Température Min (°C)": 18.12,
-                "Humidité (%)": 35,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-10 21:00:00",
-                "Température (°C)": 21.28,
-                "Température Max (°C)": 21.28,
-                "Température Min (°C)": 15.34,
-                "Humidité (%)": 37,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 00:00:00",
-                "Température (°C)": 18.11,
-                "Température Max (°C)": 18.11,
-                "Température Min (°C)": 15.04,
-                "Humidité (%)": 39,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 03:00:00",
-                "Température (°C)": 14.4,
-                "Température Max (°C)": 14.4,
-                "Température Min (°C)": 14.4,
-                "Humidité (%)": 32,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 06:00:00",
-                "Température (°C)": 15.24,
-                "Température Max (°C)": 15.24,
-                "Température Min (°C)": 15.24,
-                "Humidité (%)": 29,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 09:00:00",
-                "Température (°C)": 18.07,
-                "Température Max (°C)": 18.07,
-                "Température Min (°C)": 18.07,
-                "Humidité (%)": 30,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 12:00:00",
-                "Température (°C)": 20.63,
-                "Température Max (°C)": 20.63,
-                "Température Min (°C)": 20.63,
-                "Humidité (%)": 26,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 15:00:00",
-                "Température (°C)": 19.8,
-                "Température Max (°C)": 19.8,
-                "Température Min (°C)": 19.8,
-                "Humidité (%)": 33,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 18:00:00",
-                "Température (°C)": 18.66,
-                "Température Max (°C)": 18.66,
-                "Température Min (°C)": 18.66,
-                "Humidité (%)": 37,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 21:00:00",
-                "Température (°C)": 15.98,
-                "Température Max (°C)": 15.98,
-                "Température Min (°C)": 15.98,
-                "Humidité (%)": 44,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 00:00:00",
-                "Température (°C)": 14.47,
-                "Température Max (°C)": 14.47,
-                "Température Min (°C)": 14.47,
-                "Humidité (%)": 48,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 03:00:00",
-                "Température (°C)": 14.17,
-                "Température Max (°C)": 14.17,
-                "Température Min (°C)": 14.17,
-                "Humidité (%)": 37,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 06:00:00",
-                "Température (°C)": 13.11,
-                "Température Max (°C)": 13.11,
-                "Température Min (°C)": 13.11,
-                "Humidité (%)": 46,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 09:00:00",
-                "Température (°C)": 17.63,
-                "Température Max (°C)": 17.63,
-                "Température Min (°C)": 17.63,
-                "Humidité (%)": 31,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 12:00:00",
-                "Température (°C)": 19.88,
-                "Température Max (°C)": 19.88,
-                "Température Min (°C)": 19.88,
-                "Humidité (%)": 31,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 15:00:00",
-                "Température (°C)": 20.24,
-                "Température Max (°C)": 20.24,
-                "Température Min (°C)": 20.24,
-                "Humidité (%)": 34,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 18:00:00",
-                "Température (°C)": 19.62,
-                "Température Max (°C)": 19.62,
-                "Température Min (°C)": 19.62,
-                "Humidité (%)": 35,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 21:00:00",
-                "Température (°C)": 16.54,
-                "Température Max (°C)": 16.54,
-                "Température Min (°C)": 16.54,
-                "Humidité (%)": 41,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 00:00:00",
-                "Température (°C)": 14.44,
-                "Température Max (°C)": 14.44,
-                "Température Min (°C)": 14.44,
-                "Humidité (%)": 59,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 03:00:00",
-                "Température (°C)": 14.95,
-                "Température Max (°C)": 14.95,
-                "Température Min (°C)": 14.95,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 06:00:00",
-                "Température (°C)": 13.73,
-                "Température Max (°C)": 13.73,
-                "Température Min (°C)": 13.73,
-                "Humidité (%)": 44,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 09:00:00",
-                "Température (°C)": 16.98,
-                "Température Max (°C)": 16.98,
-                "Température Min (°C)": 16.98,
-                "Humidité (%)": 40,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 12:00:00",
-                "Température (°C)": 19.27,
-                "Température Max (°C)": 19.27,
-                "Température Min (°C)": 19.27,
-                "Humidité (%)": 41,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 15:00:00",
-                "Température (°C)": 19.1,
-                "Température Max (°C)": 19.1,
-                "Température Min (°C)": 19.1,
-                "Humidité (%)": 43,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 18:00:00",
-                "Température (°C)": 18.12,
-                "Température Max (°C)": 18.12,
-                "Température Min (°C)": 18.12,
-                "Humidité (%)": 47,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 21:00:00",
-                "Température (°C)": 15.23,
-                "Température Max (°C)": 15.23,
-                "Température Min (°C)": 15.23,
-                "Humidité (%)": 62,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 00:00:00",
-                "Température (°C)": 15.01,
-                "Température Max (°C)": 15.01,
-                "Température Min (°C)": 15.01,
-                "Humidité (%)": 50,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 03:00:00",
-                "Température (°C)": 14.39,
-                "Température Max (°C)": 14.39,
-                "Température Min (°C)": 14.39,
-                "Humidité (%)": 38,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 06:00:00",
-                "Température (°C)": 14.02,
-                "Température Max (°C)": 14.02,
-                "Température Min (°C)": 14.02,
-                "Humidité (%)": 44,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 09:00:00",
-                "Température (°C)": 18.5,
-                "Température Max (°C)": 18.5,
-                "Température Min (°C)": 18.5,
-                "Humidité (%)": 30,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 12:00:00",
-                "Température (°C)": 22.42,
-                "Température Max (°C)": 22.42,
-                "Température Min (°C)": 22.42,
-                "Humidité (%)": 26,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 15:00:00",
-                "Température (°C)": 20.75,
-                "Température Max (°C)": 20.75,
-                "Température Min (°C)": 20.75,
-                "Humidité (%)": 40,
-                "Chance de Pluie (%)": 0
-            },
-            {
                 "Date": "2025-02-14 18:00:00",
-                "Température (°C)": 19.74,
-                "Température Max (°C)": 19.74,
-                "Température Min (°C)": 19.74,
-                "Humidité (%)": 40,
+                "Température (°C)": 24.57,
+                "Température Max (°C)": 24.57,
+                "Température Min (°C)": 19.2,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.57,
+                "Humidité (%)": 37,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-14 21:00:00",
-                "Température (°C)": 16.22,
-                "Température Max (°C)": 16.22,
-                "Température Min (°C)": 16.22,
-                "Humidité (%)": 49,
+                "Température (°C)": 19.48,
+                "Température Max (°C)": 19.48,
+                "Température Min (°C)": 15.6,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.31,
+                "Humidité (%)": 48,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 00:00:00",
-                "Température (°C)": 17.61,
-                "Température Max (°C)": 17.61,
-                "Température Min (°C)": 17.61,
-                "Humidité (%)": 33,
+                "Température (°C)": 15.92,
+                "Température Max (°C)": 15.92,
+                "Température Min (°C)": 15.92,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.6,
+                "Humidité (%)": 40,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 03:00:00",
-                "Température (°C)": 17.68,
-                "Température Max (°C)": 17.68,
-                "Température Min (°C)": 17.68,
-                "Humidité (%)": 30,
+                "Température (°C)": 17.62,
+                "Température Max (°C)": 17.62,
+                "Température Min (°C)": 17.62,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 5.34,
+                "Humidité (%)": 31,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 06:00:00",
-                "Température (°C)": 18.27,
-                "Température Max (°C)": 18.27,
-                "Température Min (°C)": 18.27,
-                "Humidité (%)": 27,
+                "Température (°C)": 18.32,
+                "Température Max (°C)": 18.32,
+                "Température Min (°C)": 18.32,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 6.55,
+                "Humidité (%)": 26,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 09:00:00",
-                "Température (°C)": 19.87,
-                "Température Max (°C)": 19.87,
-                "Température Min (°C)": 19.87,
-                "Humidité (%)": 29,
+                "Température (°C)": 18.77,
+                "Température Max (°C)": 18.77,
+                "Température Min (°C)": 18.77,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 2.62,
+                "Humidité (%)": 31,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 12:00:00",
-                "Température (°C)": 19.77,
-                "Température Max (°C)": 19.77,
-                "Température Min (°C)": 19.77,
-                "Humidité (%)": 43,
+                "Température (°C)": 20.37,
+                "Température Max (°C)": 20.37,
+                "Température Min (°C)": 20.37,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 1.95,
+                "Humidité (%)": 31,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 15:00:00",
-                "Température (°C)": 14.1,
-                "Température Max (°C)": 14.1,
-                "Température Min (°C)": 14.1,
-                "Humidité (%)": 81,
+                "Température (°C)": 19.25,
+                "Température Max (°C)": 19.25,
+                "Température Min (°C)": 19.25,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 3.73,
+                "Humidité (%)": 37,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 18:00:00",
+                "Température (°C)": 17.07,
+                "Température Max (°C)": 17.07,
+                "Température Min (°C)": 17.07,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 5.29,
+                "Humidité (%)": 61,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 21:00:00",
+                "Température (°C)": 15.79,
+                "Température Max (°C)": 15.79,
+                "Température Min (°C)": 15.79,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.22,
+                "Humidité (%)": 66,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 00:00:00",
+                "Température (°C)": 14.02,
+                "Température Max (°C)": 14.02,
+                "Température Min (°C)": 14.02,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.63,
+                "Humidité (%)": 78,
+                "Chance de Pluie (%)": 20.0
+            },
+            {
+                "Date": "2025-02-16 03:00:00",
+                "Température (°C)": 12.95,
+                "Température Max (°C)": 12.95,
+                "Température Min (°C)": 12.95,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.72,
+                "Humidité (%)": 82,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 06:00:00",
+                "Température (°C)": 12.13,
+                "Température Max (°C)": 12.13,
+                "Température Min (°C)": 12.13,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 5.6,
+                "Humidité (%)": 72,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 09:00:00",
+                "Température (°C)": 14.21,
+                "Température Max (°C)": 14.21,
+                "Température Min (°C)": 14.21,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 7.92,
+                "Humidité (%)": 53,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 12:00:00",
+                "Température (°C)": 17.72,
+                "Température Max (°C)": 17.72,
+                "Température Min (°C)": 17.72,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 11.8,
+                "Humidité (%)": 41,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 15:00:00",
+                "Température (°C)": 17.62,
+                "Température Max (°C)": 17.62,
+                "Température Min (°C)": 17.62,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 12.6,
+                "Humidité (%)": 51,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 18:00:00",
+                "Température (°C)": 16.43,
+                "Température Max (°C)": 16.43,
+                "Température Min (°C)": 16.43,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 11.31,
+                "Humidité (%)": 53,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 21:00:00",
+                "Température (°C)": 13.28,
+                "Température Max (°C)": 13.28,
+                "Température Min (°C)": 13.28,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 6.12,
+                "Humidité (%)": 65,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 00:00:00",
+                "Température (°C)": 12.52,
+                "Température Max (°C)": 12.52,
+                "Température Min (°C)": 12.52,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.39,
+                "Humidité (%)": 66,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 03:00:00",
+                "Température (°C)": 11.2,
+                "Température Max (°C)": 11.2,
+                "Température Min (°C)": 11.2,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.81,
+                "Humidité (%)": 78,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 06:00:00",
+                "Température (°C)": 11.03,
+                "Température Max (°C)": 11.03,
+                "Température Min (°C)": 11.03,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.74,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 09:00:00",
+                "Température (°C)": 13.77,
+                "Température Max (°C)": 13.77,
+                "Température Min (°C)": 13.77,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 4.35,
+                "Humidité (%)": 68,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 12:00:00",
+                "Température (°C)": 16.5,
+                "Température Max (°C)": 16.5,
+                "Température Min (°C)": 16.5,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 5.44,
+                "Humidité (%)": 61,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 15:00:00",
+                "Température (°C)": 15.65,
+                "Température Max (°C)": 15.65,
+                "Température Min (°C)": 15.65,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.26,
+                "Humidité (%)": 65,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 18:00:00",
+                "Température (°C)": 14.99,
+                "Température Max (°C)": 14.99,
+                "Température Min (°C)": 14.99,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 1.48,
+                "Humidité (%)": 65,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 21:00:00",
+                "Température (°C)": 13.07,
+                "Température Max (°C)": 13.07,
+                "Température Min (°C)": 13.07,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 0.92,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 00:00:00",
+                "Température (°C)": 13.16,
+                "Température Max (°C)": 13.16,
+                "Température Min (°C)": 13.16,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.43,
+                "Humidité (%)": 65,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 03:00:00",
+                "Température (°C)": 13.35,
+                "Température Max (°C)": 13.35,
+                "Température Min (°C)": 13.35,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 4.77,
+                "Humidité (%)": 63,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 06:00:00",
+                "Température (°C)": 13.26,
+                "Température Max (°C)": 13.26,
+                "Température Min (°C)": 13.26,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 3.4,
+                "Humidité (%)": 64,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 09:00:00",
+                "Température (°C)": 15.72,
+                "Température Max (°C)": 15.72,
+                "Température Min (°C)": 15.72,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 3.55,
+                "Humidité (%)": 55,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 12:00:00",
+                "Température (°C)": 16.55,
+                "Température Max (°C)": 16.55,
+                "Température Min (°C)": 16.55,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.26,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 15:00:00",
+                "Température (°C)": 14.16,
+                "Température Max (°C)": 14.16,
+                "Température Min (°C)": 14.16,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.36,
+                "Humidité (%)": 88,
                 "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 18:00:00",
+                "Température (°C)": 15.53,
+                "Température Max (°C)": 15.53,
+                "Température Min (°C)": 15.53,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.97,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 21:00:00",
+                "Température (°C)": 13.68,
+                "Température Max (°C)": 13.68,
+                "Température Min (°C)": 13.68,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.84,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 00:00:00",
+                "Température (°C)": 13.23,
+                "Température Max (°C)": 13.23,
+                "Température Min (°C)": 13.23,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 4.78,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 03:00:00",
+                "Température (°C)": 12.91,
+                "Température Max (°C)": 12.91,
+                "Température Min (°C)": 12.91,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 5.89,
+                "Humidité (%)": 73,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 06:00:00",
+                "Température (°C)": 12.45,
+                "Température Max (°C)": 12.45,
+                "Température Min (°C)": 12.45,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 5.43,
+                "Humidité (%)": 72,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 09:00:00",
+                "Température (°C)": 14.5,
+                "Température Max (°C)": 14.5,
+                "Température Min (°C)": 14.5,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 4.29,
+                "Humidité (%)": 62,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 12:00:00",
+                "Température (°C)": 18.46,
+                "Température Max (°C)": 18.46,
+                "Température Min (°C)": 18.46,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 4.52,
+                "Humidité (%)": 46,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 15:00:00",
+                "Température (°C)": 19.04,
+                "Température Max (°C)": 19.04,
+                "Température Min (°C)": 19.04,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 8.35,
+                "Humidité (%)": 50,
+                "Chance de Pluie (%)": 0
             }
         ]
     },
@@ -328,324 +408,404 @@
         "Ville": "Casablanca",
         "Previsions": [
             {
-                "Date": "2025-02-10 18:00:00",
-                "Température (°C)": 22.05,
-                "Température Max (°C)": 22.05,
-                "Température Min (°C)": 15.6,
-                "Humidité (%)": 24,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-10 21:00:00",
-                "Température (°C)": 19.02,
-                "Température Max (°C)": 19.02,
-                "Température Min (°C)": 12.96,
-                "Humidité (%)": 38,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 00:00:00",
-                "Température (°C)": 15.07,
-                "Température Max (°C)": 15.07,
-                "Température Min (°C)": 11.58,
-                "Humidité (%)": 48,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 03:00:00",
-                "Température (°C)": 11.38,
-                "Température Max (°C)": 11.38,
-                "Température Min (°C)": 11.38,
-                "Humidité (%)": 53,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 06:00:00",
-                "Température (°C)": 11.53,
-                "Température Max (°C)": 11.53,
-                "Température Min (°C)": 11.53,
-                "Humidité (%)": 42,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 09:00:00",
-                "Température (°C)": 14.64,
-                "Température Max (°C)": 14.64,
-                "Température Min (°C)": 14.64,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 12:00:00",
-                "Température (°C)": 21.24,
-                "Température Max (°C)": 21.24,
-                "Température Min (°C)": 21.24,
-                "Humidité (%)": 28,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 15:00:00",
-                "Température (°C)": 20.81,
-                "Température Max (°C)": 20.81,
-                "Température Min (°C)": 20.81,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 18:00:00",
-                "Température (°C)": 16.45,
-                "Température Max (°C)": 16.45,
-                "Température Min (°C)": 16.45,
-                "Humidité (%)": 55,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 21:00:00",
-                "Température (°C)": 13.5,
-                "Température Max (°C)": 13.5,
-                "Température Min (°C)": 13.5,
-                "Humidité (%)": 68,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 00:00:00",
-                "Température (°C)": 12.71,
-                "Température Max (°C)": 12.71,
-                "Température Min (°C)": 12.71,
-                "Humidité (%)": 79,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 03:00:00",
-                "Température (°C)": 11.89,
-                "Température Max (°C)": 11.89,
-                "Température Min (°C)": 11.89,
-                "Humidité (%)": 83,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 06:00:00",
-                "Température (°C)": 11.47,
-                "Température Max (°C)": 11.47,
-                "Température Min (°C)": 11.47,
-                "Humidité (%)": 86,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 09:00:00",
-                "Température (°C)": 14.42,
-                "Température Max (°C)": 14.42,
-                "Température Min (°C)": 14.42,
-                "Humidité (%)": 76,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 12:00:00",
-                "Température (°C)": 18.59,
-                "Température Max (°C)": 18.59,
-                "Température Min (°C)": 18.59,
-                "Humidité (%)": 66,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 15:00:00",
-                "Température (°C)": 18.42,
-                "Température Max (°C)": 18.42,
-                "Température Min (°C)": 18.42,
+                "Date": "2025-02-14 18:00:00",
+                "Température (°C)": 17.14,
+                "Température Max (°C)": 17.14,
+                "Température Min (°C)": 15.31,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.31,
                 "Humidité (%)": 69,
                 "Chance de Pluie (%)": 0
             },
             {
-                "Date": "2025-02-12 18:00:00",
-                "Température (°C)": 15.34,
-                "Température Max (°C)": 15.34,
-                "Température Min (°C)": 15.34,
-                "Humidité (%)": 85,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 21:00:00",
-                "Température (°C)": 13.6,
-                "Température Max (°C)": 13.6,
-                "Température Min (°C)": 13.6,
-                "Humidité (%)": 87,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 00:00:00",
-                "Température (°C)": 12.24,
-                "Température Max (°C)": 12.24,
-                "Température Min (°C)": 12.24,
-                "Humidité (%)": 90,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 03:00:00",
-                "Température (°C)": 11.31,
-                "Température Max (°C)": 11.31,
-                "Température Min (°C)": 11.31,
-                "Humidité (%)": 91,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 06:00:00",
-                "Température (°C)": 10.49,
-                "Température Max (°C)": 10.49,
-                "Température Min (°C)": 10.49,
-                "Humidité (%)": 91,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 09:00:00",
-                "Température (°C)": 13.14,
-                "Température Max (°C)": 13.14,
-                "Température Min (°C)": 13.14,
-                "Humidité (%)": 77,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 12:00:00",
-                "Température (°C)": 17.75,
-                "Température Max (°C)": 17.75,
-                "Température Min (°C)": 17.75,
-                "Humidité (%)": 50,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 15:00:00",
-                "Température (°C)": 18.04,
-                "Température Max (°C)": 18.04,
-                "Température Min (°C)": 18.04,
-                "Humidité (%)": 51,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 18:00:00",
-                "Température (°C)": 14.72,
-                "Température Max (°C)": 14.72,
-                "Température Min (°C)": 14.72,
-                "Humidité (%)": 74,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 21:00:00",
-                "Température (°C)": 13.07,
-                "Température Max (°C)": 13.07,
-                "Température Min (°C)": 13.07,
-                "Humidité (%)": 85,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 00:00:00",
-                "Température (°C)": 12.02,
-                "Température Max (°C)": 12.02,
-                "Température Min (°C)": 12.02,
-                "Humidité (%)": 85,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 03:00:00",
-                "Température (°C)": 11.13,
-                "Température Max (°C)": 11.13,
-                "Température Min (°C)": 11.13,
-                "Humidité (%)": 85,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 06:00:00",
-                "Température (°C)": 10.76,
-                "Température Max (°C)": 10.76,
-                "Température Min (°C)": 10.76,
-                "Humidité (%)": 82,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 09:00:00",
-                "Température (°C)": 13.98,
-                "Température Max (°C)": 13.98,
-                "Température Min (°C)": 13.98,
-                "Humidité (%)": 61,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 12:00:00",
-                "Température (°C)": 21.54,
-                "Température Max (°C)": 21.54,
-                "Température Min (°C)": 21.54,
-                "Humidité (%)": 35,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 15:00:00",
-                "Température (°C)": 18.82,
-                "Température Max (°C)": 18.82,
-                "Température Min (°C)": 18.82,
-                "Humidité (%)": 52,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 18:00:00",
-                "Température (°C)": 15.17,
-                "Température Max (°C)": 15.17,
-                "Température Min (°C)": 15.17,
-                "Humidité (%)": 70,
-                "Chance de Pluie (%)": 0
-            },
-            {
                 "Date": "2025-02-14 21:00:00",
-                "Température (°C)": 12.87,
-                "Température Max (°C)": 12.87,
-                "Température Min (°C)": 12.87,
-                "Humidité (%)": 74,
+                "Température (°C)": 14.73,
+                "Température Max (°C)": 14.73,
+                "Température Min (°C)": 13.07,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.23,
+                "Humidité (%)": 72,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 00:00:00",
-                "Température (°C)": 12.76,
-                "Température Max (°C)": 12.76,
-                "Température Min (°C)": 12.76,
-                "Humidité (%)": 64,
+                "Température (°C)": 12.53,
+                "Température Max (°C)": 12.53,
+                "Température Min (°C)": 12.53,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.04,
+                "Humidité (%)": 71,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 03:00:00",
-                "Température (°C)": 12.79,
-                "Température Max (°C)": 12.79,
-                "Température Min (°C)": 12.79,
-                "Humidité (%)": 45,
+                "Température (°C)": 13.01,
+                "Température Max (°C)": 13.01,
+                "Température Min (°C)": 13.01,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.85,
+                "Humidité (%)": 64,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 06:00:00",
-                "Température (°C)": 12.31,
-                "Température Max (°C)": 12.31,
-                "Température Min (°C)": 12.31,
-                "Humidité (%)": 39,
+                "Température (°C)": 14.27,
+                "Température Max (°C)": 14.27,
+                "Température Min (°C)": 14.27,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1.73,
+                "Humidité (%)": 53,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 09:00:00",
-                "Température (°C)": 15.85,
-                "Température Max (°C)": 15.85,
-                "Température Min (°C)": 15.85,
-                "Humidité (%)": 32,
+                "Température (°C)": 16.69,
+                "Température Max (°C)": 16.69,
+                "Température Min (°C)": 16.69,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1.78,
+                "Humidité (%)": 47,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 12:00:00",
-                "Température (°C)": 21.66,
-                "Température Max (°C)": 21.66,
-                "Température Min (°C)": 21.66,
-                "Humidité (%)": 29,
+                "Température (°C)": 22.98,
+                "Température Max (°C)": 22.98,
+                "Température Min (°C)": 22.98,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 2.56,
+                "Humidité (%)": 30,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 15:00:00",
-                "Température (°C)": 19.56,
-                "Température Max (°C)": 19.56,
-                "Température Min (°C)": 19.56,
-                "Humidité (%)": 44,
+                "Température (°C)": 24.23,
+                "Température Max (°C)": 24.23,
+                "Température Min (°C)": 24.23,
+                "Pression (hPa)": 1008,
+                "Vitesse du vent (m/s)": 3.09,
+                "Humidité (%)": 26,
                 "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 18:00:00",
+                "Température (°C)": 17.67,
+                "Température Max (°C)": 17.67,
+                "Température Min (°C)": 17.67,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 8.32,
+                "Humidité (%)": 55,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 21:00:00",
+                "Température (°C)": 14.79,
+                "Température Max (°C)": 14.79,
+                "Température Min (°C)": 14.79,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 5.36,
+                "Humidité (%)": 89,
+                "Chance de Pluie (%)": 28.000000000000004
+            },
+            {
+                "Date": "2025-02-16 00:00:00",
+                "Température (°C)": 13.28,
+                "Température Max (°C)": 13.28,
+                "Température Min (°C)": 13.28,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 6.34,
+                "Humidité (%)": 92,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 03:00:00",
+                "Température (°C)": 12.1,
+                "Température Max (°C)": 12.1,
+                "Température Min (°C)": 12.1,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 5.06,
+                "Humidité (%)": 82,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 06:00:00",
+                "Température (°C)": 10.47,
+                "Température Max (°C)": 10.47,
+                "Température Min (°C)": 10.47,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.17,
+                "Humidité (%)": 87,
+                "Chance de Pluie (%)": 99.0
+            },
+            {
+                "Date": "2025-02-16 09:00:00",
+                "Température (°C)": 11.69,
+                "Température Max (°C)": 11.69,
+                "Température Min (°C)": 11.69,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 4.18,
+                "Humidité (%)": 84,
+                "Chance de Pluie (%)": 34.0
+            },
+            {
+                "Date": "2025-02-16 12:00:00",
+                "Température (°C)": 17.14,
+                "Température Max (°C)": 17.14,
+                "Température Min (°C)": 17.14,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 4.8,
+                "Humidité (%)": 51,
+                "Chance de Pluie (%)": 1.0
+            },
+            {
+                "Date": "2025-02-16 15:00:00",
+                "Température (°C)": 17.63,
+                "Température Max (°C)": 17.63,
+                "Température Min (°C)": 17.63,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.01,
+                "Humidité (%)": 51,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 18:00:00",
+                "Température (°C)": 14.37,
+                "Température Max (°C)": 14.37,
+                "Température Min (°C)": 14.37,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.45,
+                "Humidité (%)": 70,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 21:00:00",
+                "Température (°C)": 12.16,
+                "Température Max (°C)": 12.16,
+                "Température Min (°C)": 12.16,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 1.64,
+                "Humidité (%)": 80,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 00:00:00",
+                "Température (°C)": 11.3,
+                "Température Max (°C)": 11.3,
+                "Température Min (°C)": 11.3,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 1.98,
+                "Humidité (%)": 84,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 03:00:00",
+                "Température (°C)": 10.46,
+                "Température Max (°C)": 10.46,
+                "Température Min (°C)": 10.46,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.58,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 06:00:00",
+                "Température (°C)": 10.24,
+                "Température Max (°C)": 10.24,
+                "Température Min (°C)": 10.24,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.1,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 09:00:00",
+                "Température (°C)": 13.44,
+                "Température Max (°C)": 13.44,
+                "Température Min (°C)": 13.44,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.54,
+                "Humidité (%)": 69,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 12:00:00",
+                "Température (°C)": 18.03,
+                "Température Max (°C)": 18.03,
+                "Température Min (°C)": 18.03,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 3.72,
+                "Humidité (%)": 51,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 15:00:00",
+                "Température (°C)": 18.06,
+                "Température Max (°C)": 18.06,
+                "Température Min (°C)": 18.06,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 3.42,
+                "Humidité (%)": 54,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 18:00:00",
+                "Température (°C)": 14.99,
+                "Température Max (°C)": 14.99,
+                "Température Min (°C)": 14.99,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 2.58,
+                "Humidité (%)": 72,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 21:00:00",
+                "Température (°C)": 12.95,
+                "Température Max (°C)": 12.95,
+                "Température Min (°C)": 12.95,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 1.25,
+                "Humidité (%)": 81,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 00:00:00",
+                "Température (°C)": 11.43,
+                "Température Max (°C)": 11.43,
+                "Température Min (°C)": 11.43,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 3.56,
+                "Humidité (%)": 84,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 03:00:00",
+                "Température (°C)": 11.37,
+                "Température Max (°C)": 11.37,
+                "Température Min (°C)": 11.37,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 4.81,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 06:00:00",
+                "Température (°C)": 12.01,
+                "Température Max (°C)": 12.01,
+                "Température Min (°C)": 12.01,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 5.56,
+                "Humidité (%)": 75,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 09:00:00",
+                "Température (°C)": 14.82,
+                "Température Max (°C)": 14.82,
+                "Température Min (°C)": 14.82,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 4.5,
+                "Humidité (%)": 65,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 12:00:00",
+                "Température (°C)": 15.58,
+                "Température Max (°C)": 15.58,
+                "Température Min (°C)": 15.58,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 7.75,
+                "Humidité (%)": 63,
+                "Chance de Pluie (%)": 35.0
+            },
+            {
+                "Date": "2025-02-18 15:00:00",
+                "Température (°C)": 13.29,
+                "Température Max (°C)": 13.29,
+                "Température Min (°C)": 13.29,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 6.6,
+                "Humidité (%)": 94,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 18:00:00",
+                "Température (°C)": 13.51,
+                "Température Max (°C)": 13.51,
+                "Température Min (°C)": 13.51,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 6.24,
+                "Humidité (%)": 89,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 21:00:00",
+                "Température (°C)": 12.34,
+                "Température Max (°C)": 12.34,
+                "Température Min (°C)": 12.34,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.01,
+                "Humidité (%)": 89,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 00:00:00",
+                "Température (°C)": 11.11,
+                "Température Max (°C)": 11.11,
+                "Température Min (°C)": 11.11,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 4.4,
+                "Humidité (%)": 92,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 03:00:00",
+                "Température (°C)": 10.77,
+                "Température Max (°C)": 10.77,
+                "Température Min (°C)": 10.77,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 5.05,
+                "Humidité (%)": 93,
+                "Chance de Pluie (%)": 16.0
+            },
+            {
+                "Date": "2025-02-19 06:00:00",
+                "Température (°C)": 10.74,
+                "Température Max (°C)": 10.74,
+                "Température Min (°C)": 10.74,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 5.45,
+                "Humidité (%)": 93,
+                "Chance de Pluie (%)": 5.0
+            },
+            {
+                "Date": "2025-02-19 09:00:00",
+                "Température (°C)": 12.8,
+                "Température Max (°C)": 12.8,
+                "Température Min (°C)": 12.8,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 5.59,
+                "Humidité (%)": 87,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 12:00:00",
+                "Température (°C)": 17.16,
+                "Température Max (°C)": 17.16,
+                "Température Min (°C)": 17.16,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 5.7,
+                "Humidité (%)": 64,
+                "Chance de Pluie (%)": 38.0
+            },
+            {
+                "Date": "2025-02-19 15:00:00",
+                "Température (°C)": 16.86,
+                "Température Max (°C)": 16.86,
+                "Température Min (°C)": 16.86,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 4.6,
+                "Humidité (%)": 70,
+                "Chance de Pluie (%)": 100
             }
         ]
     },
@@ -653,323 +813,403 @@
         "Ville": "Marrakech",
         "Previsions": [
             {
-                "Date": "2025-02-10 18:00:00",
-                "Température (°C)": 23.02,
-                "Température Max (°C)": 23.02,
-                "Température Min (°C)": 19.77,
-                "Humidité (%)": 17,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-10 21:00:00",
-                "Température (°C)": 19.86,
-                "Température Max (°C)": 19.86,
-                "Température Min (°C)": 13.55,
-                "Humidité (%)": 22,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 00:00:00",
-                "Température (°C)": 15.5,
-                "Température Max (°C)": 15.5,
-                "Température Min (°C)": 11.74,
-                "Humidité (%)": 30,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 03:00:00",
-                "Température (°C)": 10.9,
-                "Température Max (°C)": 10.9,
-                "Température Min (°C)": 10.9,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 06:00:00",
-                "Température (°C)": 10.47,
-                "Température Max (°C)": 10.47,
-                "Température Min (°C)": 10.47,
-                "Humidité (%)": 35,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 09:00:00",
-                "Température (°C)": 15.35,
-                "Température Max (°C)": 15.35,
-                "Température Min (°C)": 15.35,
-                "Humidité (%)": 23,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 12:00:00",
-                "Température (°C)": 21.19,
-                "Température Max (°C)": 21.19,
-                "Température Min (°C)": 21.19,
+                "Date": "2025-02-14 18:00:00",
+                "Température (°C)": 23.82,
+                "Température Max (°C)": 23.82,
+                "Température Min (°C)": 21.87,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 4.84,
                 "Humidité (%)": 14,
                 "Chance de Pluie (%)": 0
             },
             {
-                "Date": "2025-02-11 15:00:00",
-                "Température (°C)": 23.07,
-                "Température Max (°C)": 23.07,
-                "Température Min (°C)": 23.07,
-                "Humidité (%)": 11,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 18:00:00",
-                "Température (°C)": 19.67,
-                "Température Max (°C)": 19.67,
-                "Température Min (°C)": 19.67,
-                "Humidité (%)": 15,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 21:00:00",
-                "Température (°C)": 13.67,
-                "Température Max (°C)": 13.67,
-                "Température Min (°C)": 13.67,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 00:00:00",
-                "Température (°C)": 12.13,
-                "Température Max (°C)": 12.13,
-                "Température Min (°C)": 12.13,
-                "Humidité (%)": 38,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 03:00:00",
-                "Température (°C)": 11.43,
-                "Température Max (°C)": 11.43,
-                "Température Min (°C)": 11.43,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 06:00:00",
-                "Température (°C)": 9.98,
-                "Température Max (°C)": 9.98,
-                "Température Min (°C)": 9.98,
-                "Humidité (%)": 38,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 09:00:00",
-                "Température (°C)": 15.02,
-                "Température Max (°C)": 15.02,
-                "Température Min (°C)": 15.02,
-                "Humidité (%)": 27,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 12:00:00",
-                "Température (°C)": 20.55,
-                "Température Max (°C)": 20.55,
-                "Température Min (°C)": 20.55,
-                "Humidité (%)": 18,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 15:00:00",
-                "Température (°C)": 23.05,
-                "Température Max (°C)": 23.05,
-                "Température Min (°C)": 23.05,
-                "Humidité (%)": 12,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 18:00:00",
-                "Température (°C)": 19.79,
-                "Température Max (°C)": 19.79,
-                "Température Min (°C)": 19.79,
-                "Humidité (%)": 17,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 21:00:00",
-                "Température (°C)": 14.77,
-                "Température Max (°C)": 14.77,
-                "Température Min (°C)": 14.77,
-                "Humidité (%)": 29,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 00:00:00",
-                "Température (°C)": 11.92,
-                "Température Max (°C)": 11.92,
-                "Température Min (°C)": 11.92,
-                "Humidité (%)": 59,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 03:00:00",
-                "Température (°C)": 10.75,
-                "Température Max (°C)": 10.75,
-                "Température Min (°C)": 10.75,
-                "Humidité (%)": 61,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 06:00:00",
-                "Température (°C)": 10.14,
-                "Température Max (°C)": 10.14,
-                "Température Min (°C)": 10.14,
-                "Humidité (%)": 62,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 09:00:00",
-                "Température (°C)": 14.75,
-                "Température Max (°C)": 14.75,
-                "Température Min (°C)": 14.75,
-                "Humidité (%)": 42,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 12:00:00",
-                "Température (°C)": 21,
-                "Température Max (°C)": 21,
-                "Température Min (°C)": 21,
-                "Humidité (%)": 21,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 15:00:00",
-                "Température (°C)": 23.32,
-                "Température Max (°C)": 23.32,
-                "Température Min (°C)": 23.32,
-                "Humidité (%)": 15,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 18:00:00",
-                "Température (°C)": 20.55,
-                "Température Max (°C)": 20.55,
-                "Température Min (°C)": 20.55,
-                "Humidité (%)": 21,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 21:00:00",
-                "Température (°C)": 15.62,
-                "Température Max (°C)": 15.62,
-                "Température Min (°C)": 15.62,
-                "Humidité (%)": 36,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 00:00:00",
-                "Température (°C)": 13.52,
-                "Température Max (°C)": 13.52,
-                "Température Min (°C)": 13.52,
-                "Humidité (%)": 41,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 03:00:00",
-                "Température (°C)": 11.96,
-                "Température Max (°C)": 11.96,
-                "Température Min (°C)": 11.96,
-                "Humidité (%)": 44,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 06:00:00",
-                "Température (°C)": 11.11,
-                "Température Max (°C)": 11.11,
-                "Température Min (°C)": 11.11,
-                "Humidité (%)": 42,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 09:00:00",
-                "Température (°C)": 16.87,
-                "Température Max (°C)": 16.87,
-                "Température Min (°C)": 16.87,
-                "Humidité (%)": 26,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 12:00:00",
-                "Température (°C)": 22.71,
-                "Température Max (°C)": 22.71,
-                "Température Min (°C)": 22.71,
-                "Humidité (%)": 17,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 15:00:00",
-                "Température (°C)": 25.51,
-                "Température Max (°C)": 25.51,
-                "Température Min (°C)": 25.51,
-                "Humidité (%)": 11,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 18:00:00",
-                "Température (°C)": 20.21,
-                "Température Max (°C)": 20.21,
-                "Température Min (°C)": 20.21,
-                "Humidité (%)": 24,
-                "Chance de Pluie (%)": 0
-            },
-            {
                 "Date": "2025-02-14 21:00:00",
-                "Température (°C)": 15.84,
-                "Température Max (°C)": 15.84,
-                "Température Min (°C)": 15.84,
-                "Humidité (%)": 32,
+                "Température (°C)": 18.37,
+                "Température Max (°C)": 18.37,
+                "Température Min (°C)": 15.15,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.96,
+                "Humidité (%)": 30,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 00:00:00",
-                "Température (°C)": 14.16,
-                "Température Max (°C)": 14.16,
-                "Température Min (°C)": 14.16,
-                "Humidité (%)": 37,
+                "Température (°C)": 12.84,
+                "Température Max (°C)": 12.84,
+                "Température Min (°C)": 12.84,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 0.71,
+                "Humidité (%)": 44,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 03:00:00",
-                "Température (°C)": 12.81,
-                "Température Max (°C)": 12.81,
-                "Température Min (°C)": 12.81,
-                "Humidité (%)": 35,
+                "Température (°C)": 13.13,
+                "Température Max (°C)": 13.13,
+                "Température Min (°C)": 13.13,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.9,
+                "Humidité (%)": 37,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 06:00:00",
-                "Température (°C)": 12.85,
-                "Température Max (°C)": 12.85,
-                "Température Min (°C)": 12.85,
-                "Humidité (%)": 33,
+                "Température (°C)": 14,
+                "Température Max (°C)": 14,
+                "Température Min (°C)": 14,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1.95,
+                "Humidité (%)": 31,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 09:00:00",
-                "Température (°C)": 18.14,
-                "Température Max (°C)": 18.14,
-                "Température Min (°C)": 18.14,
+                "Température (°C)": 17.98,
+                "Température Max (°C)": 17.98,
+                "Température Min (°C)": 17.98,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1,
                 "Humidité (%)": 17,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 12:00:00",
-                "Température (°C)": 25.47,
-                "Température Max (°C)": 25.47,
-                "Température Min (°C)": 25.47,
-                "Humidité (%)": 9,
+                "Température (°C)": 23.09,
+                "Température Max (°C)": 23.09,
+                "Température Min (°C)": 23.09,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 0.84,
+                "Humidité (%)": 11,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 15:00:00",
-                "Température (°C)": 25.63,
-                "Température Max (°C)": 25.63,
-                "Température Min (°C)": 25.63,
-                "Humidité (%)": 12,
+                "Température (°C)": 25.28,
+                "Température Max (°C)": 25.28,
+                "Température Min (°C)": 25.28,
+                "Pression (hPa)": 1008,
+                "Vitesse du vent (m/s)": 1.02,
+                "Humidité (%)": 9,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 18:00:00",
+                "Température (°C)": 17.31,
+                "Température Max (°C)": 17.31,
+                "Température Min (°C)": 17.31,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 12.02,
+                "Humidité (%)": 39,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 21:00:00",
+                "Température (°C)": 13.78,
+                "Température Max (°C)": 13.78,
+                "Température Min (°C)": 13.78,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 5.46,
+                "Humidité (%)": 74,
+                "Chance de Pluie (%)": 73.0
+            },
+            {
+                "Date": "2025-02-16 00:00:00",
+                "Température (°C)": 12.76,
+                "Température Max (°C)": 12.76,
+                "Température Min (°C)": 12.76,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.47,
+                "Humidité (%)": 82,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 03:00:00",
+                "Température (°C)": 11.38,
+                "Température Max (°C)": 11.38,
+                "Température Min (°C)": 11.38,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 5.85,
+                "Humidité (%)": 78,
+                "Chance de Pluie (%)": 93.0
+            },
+            {
+                "Date": "2025-02-16 06:00:00",
+                "Température (°C)": 10.31,
+                "Température Max (°C)": 10.31,
+                "Température Min (°C)": 10.31,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 4.69,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 77.0
+            },
+            {
+                "Date": "2025-02-16 09:00:00",
+                "Température (°C)": 10.9,
+                "Température Max (°C)": 10.9,
+                "Température Min (°C)": 10.9,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 2.96,
+                "Humidité (%)": 70,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 12:00:00",
+                "Température (°C)": 14.36,
+                "Température Max (°C)": 14.36,
+                "Température Min (°C)": 14.36,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 3.83,
+                "Humidité (%)": 41,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 15:00:00",
+                "Température (°C)": 13.3,
+                "Température Max (°C)": 13.3,
+                "Température Min (°C)": 13.3,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 5.65,
+                "Humidité (%)": 52,
+                "Chance de Pluie (%)": 41.0
+            },
+            {
+                "Date": "2025-02-16 18:00:00",
+                "Température (°C)": 12.55,
+                "Température Max (°C)": 12.55,
+                "Température Min (°C)": 12.55,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 0.95,
+                "Humidité (%)": 58,
+                "Chance de Pluie (%)": 20.0
+            },
+            {
+                "Date": "2025-02-16 21:00:00",
+                "Température (°C)": 10.51,
+                "Température Max (°C)": 10.51,
+                "Température Min (°C)": 10.51,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 2.27,
+                "Humidité (%)": 68,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 00:00:00",
+                "Température (°C)": 9.52,
+                "Température Max (°C)": 9.52,
+                "Température Min (°C)": 9.52,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.72,
+                "Humidité (%)": 72,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 03:00:00",
+                "Température (°C)": 9.02,
+                "Température Max (°C)": 9.02,
+                "Température Min (°C)": 9.02,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.36,
+                "Humidité (%)": 70,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 06:00:00",
+                "Température (°C)": 7.96,
+                "Température Max (°C)": 7.96,
+                "Température Min (°C)": 7.96,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.56,
+                "Humidité (%)": 66,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 09:00:00",
+                "Température (°C)": 11.05,
+                "Température Max (°C)": 11.05,
+                "Température Min (°C)": 11.05,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 0.45,
+                "Humidité (%)": 52,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 12:00:00",
+                "Température (°C)": 16.67,
+                "Température Max (°C)": 16.67,
+                "Température Min (°C)": 16.67,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.04,
+                "Humidité (%)": 33,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 15:00:00",
+                "Température (°C)": 19.93,
+                "Température Max (°C)": 19.93,
+                "Température Min (°C)": 19.93,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 4.04,
+                "Humidité (%)": 25,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 18:00:00",
+                "Température (°C)": 17.87,
+                "Température Max (°C)": 17.87,
+                "Température Min (°C)": 17.87,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 2.11,
+                "Humidité (%)": 29,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 21:00:00",
+                "Température (°C)": 14.48,
+                "Température Max (°C)": 14.48,
+                "Température Min (°C)": 14.48,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 3.67,
+                "Humidité (%)": 40,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 00:00:00",
+                "Température (°C)": 10.41,
+                "Température Max (°C)": 10.41,
+                "Température Min (°C)": 10.41,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 0.28,
+                "Humidité (%)": 69,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 03:00:00",
+                "Température (°C)": 10.02,
+                "Température Max (°C)": 10.02,
+                "Température Min (°C)": 10.02,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 2.43,
+                "Humidité (%)": 69,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 06:00:00",
+                "Température (°C)": 9.37,
+                "Température Max (°C)": 9.37,
+                "Température Min (°C)": 9.37,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 1.78,
+                "Humidité (%)": 67,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 09:00:00",
+                "Température (°C)": 14.5,
+                "Température Max (°C)": 14.5,
+                "Température Min (°C)": 14.5,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 2.1,
+                "Humidité (%)": 42,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 12:00:00",
+                "Température (°C)": 20.66,
+                "Température Max (°C)": 20.66,
+                "Température Min (°C)": 20.66,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 4.73,
+                "Humidité (%)": 26,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 15:00:00",
+                "Température (°C)": 20.27,
+                "Température Max (°C)": 20.27,
+                "Température Min (°C)": 20.27,
+                "Pression (hPa)": 1009,
+                "Vitesse du vent (m/s)": 11.18,
+                "Humidité (%)": 30,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 18:00:00",
+                "Température (°C)": 12.76,
+                "Température Max (°C)": 12.76,
+                "Température Min (°C)": 12.76,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 11.29,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 84.0
+            },
+            {
+                "Date": "2025-02-18 21:00:00",
+                "Température (°C)": 12.18,
+                "Température Max (°C)": 12.18,
+                "Température Min (°C)": 12.18,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 4.68,
+                "Humidité (%)": 80,
+                "Chance de Pluie (%)": 99.0
+            },
+            {
+                "Date": "2025-02-19 00:00:00",
+                "Température (°C)": 10.55,
+                "Température Max (°C)": 10.55,
+                "Température Min (°C)": 10.55,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 2.02,
+                "Humidité (%)": 87,
+                "Chance de Pluie (%)": 80.0
+            },
+            {
+                "Date": "2025-02-19 03:00:00",
+                "Température (°C)": 9.49,
+                "Température Max (°C)": 9.49,
+                "Température Min (°C)": 9.49,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 1.61,
+                "Humidité (%)": 87,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 06:00:00",
+                "Température (°C)": 8.65,
+                "Température Max (°C)": 8.65,
+                "Température Min (°C)": 8.65,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 0.81,
+                "Humidité (%)": 86,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 09:00:00",
+                "Température (°C)": 12.46,
+                "Température Max (°C)": 12.46,
+                "Température Min (°C)": 12.46,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 1.02,
+                "Humidité (%)": 60,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 12:00:00",
+                "Température (°C)": 16.93,
+                "Température Max (°C)": 16.93,
+                "Température Min (°C)": 16.93,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 2.43,
+                "Humidité (%)": 38,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 15:00:00",
+                "Température (°C)": 19.25,
+                "Température Max (°C)": 19.25,
+                "Température Min (°C)": 19.25,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 3.53,
+                "Humidité (%)": 30,
                 "Chance de Pluie (%)": 0
             }
         ]
@@ -978,323 +1218,403 @@
         "Ville": "Fès",
         "Previsions": [
             {
-                "Date": "2025-02-10 18:00:00",
-                "Température (°C)": 21.03,
-                "Température Max (°C)": 21.03,
-                "Température Min (°C)": 15.86,
-                "Humidité (%)": 17,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-10 21:00:00",
-                "Température (°C)": 18.55,
-                "Température Max (°C)": 18.55,
-                "Température Min (°C)": 13.6,
-                "Humidité (%)": 29,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 00:00:00",
-                "Température (°C)": 15.32,
-                "Température Max (°C)": 15.32,
-                "Température Min (°C)": 12.46,
-                "Humidité (%)": 41,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 03:00:00",
-                "Température (°C)": 11.3,
-                "Température Max (°C)": 11.3,
-                "Température Min (°C)": 11.3,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 06:00:00",
-                "Température (°C)": 10.78,
-                "Température Max (°C)": 10.78,
-                "Température Min (°C)": 10.78,
-                "Humidité (%)": 53,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 09:00:00",
-                "Température (°C)": 15.11,
-                "Température Max (°C)": 15.11,
-                "Température Min (°C)": 15.11,
-                "Humidité (%)": 40,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 12:00:00",
-                "Température (°C)": 20.49,
-                "Température Max (°C)": 20.49,
-                "Température Min (°C)": 20.49,
-                "Humidité (%)": 30,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 15:00:00",
-                "Température (°C)": 22.18,
-                "Température Max (°C)": 22.18,
-                "Température Min (°C)": 22.18,
-                "Humidité (%)": 22,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 18:00:00",
-                "Température (°C)": 15.55,
-                "Température Max (°C)": 15.55,
-                "Température Min (°C)": 15.55,
-                "Humidité (%)": 53,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 21:00:00",
-                "Température (°C)": 13.15,
-                "Température Max (°C)": 13.15,
-                "Température Min (°C)": 13.15,
-                "Humidité (%)": 60,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 00:00:00",
-                "Température (°C)": 11.65,
-                "Température Max (°C)": 11.65,
-                "Température Min (°C)": 11.65,
-                "Humidité (%)": 59,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 03:00:00",
-                "Température (°C)": 10.85,
-                "Température Max (°C)": 10.85,
-                "Température Min (°C)": 10.85,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 06:00:00",
-                "Température (°C)": 10.07,
-                "Température Max (°C)": 10.07,
-                "Température Min (°C)": 10.07,
-                "Humidité (%)": 50,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 09:00:00",
-                "Température (°C)": 13.46,
-                "Température Max (°C)": 13.46,
-                "Température Min (°C)": 13.46,
-                "Humidité (%)": 40,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 12:00:00",
-                "Température (°C)": 18.2,
-                "Température Max (°C)": 18.2,
-                "Température Min (°C)": 18.2,
-                "Humidité (%)": 33,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 15:00:00",
-                "Température (°C)": 19.39,
-                "Température Max (°C)": 19.39,
-                "Température Min (°C)": 19.39,
-                "Humidité (%)": 39,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 18:00:00",
-                "Température (°C)": 13.65,
-                "Température Max (°C)": 13.65,
-                "Température Min (°C)": 13.65,
-                "Humidité (%)": 80,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 21:00:00",
-                "Température (°C)": 12.79,
-                "Température Max (°C)": 12.79,
-                "Température Min (°C)": 12.79,
-                "Humidité (%)": 83,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 00:00:00",
-                "Température (°C)": 12.02,
-                "Température Max (°C)": 12.02,
-                "Température Min (°C)": 12.02,
-                "Humidité (%)": 86,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 03:00:00",
-                "Température (°C)": 9.9,
-                "Température Max (°C)": 9.9,
-                "Température Min (°C)": 9.9,
-                "Humidité (%)": 92,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 06:00:00",
-                "Température (°C)": 8.63,
-                "Température Max (°C)": 8.63,
-                "Température Min (°C)": 8.63,
-                "Humidité (%)": 94,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 09:00:00",
-                "Température (°C)": 11.38,
-                "Température Max (°C)": 11.38,
-                "Température Min (°C)": 11.38,
-                "Humidité (%)": 84,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 12:00:00",
-                "Température (°C)": 16.73,
-                "Température Max (°C)": 16.73,
-                "Température Min (°C)": 16.73,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 15:00:00",
-                "Température (°C)": 18.72,
-                "Température Max (°C)": 18.72,
-                "Température Min (°C)": 18.72,
-                "Humidité (%)": 37,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 18:00:00",
-                "Température (°C)": 13.87,
-                "Température Max (°C)": 13.87,
-                "Température Min (°C)": 13.87,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 21:00:00",
-                "Température (°C)": 11.72,
-                "Température Max (°C)": 11.72,
-                "Température Min (°C)": 11.72,
-                "Humidité (%)": 63,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 00:00:00",
-                "Température (°C)": 10.96,
-                "Température Max (°C)": 10.96,
-                "Température Min (°C)": 10.96,
-                "Humidité (%)": 64,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 03:00:00",
-                "Température (°C)": 10.28,
-                "Température Max (°C)": 10.28,
-                "Température Min (°C)": 10.28,
-                "Humidité (%)": 67,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 06:00:00",
-                "Température (°C)": 9.59,
-                "Température Max (°C)": 9.59,
-                "Température Min (°C)": 9.59,
-                "Humidité (%)": 67,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 09:00:00",
-                "Température (°C)": 13.98,
-                "Température Max (°C)": 13.98,
-                "Température Min (°C)": 13.98,
-                "Humidité (%)": 52,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 12:00:00",
-                "Température (°C)": 20.21,
-                "Température Max (°C)": 20.21,
-                "Température Min (°C)": 20.21,
-                "Humidité (%)": 35,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 15:00:00",
-                "Température (°C)": 22.52,
-                "Température Max (°C)": 22.52,
-                "Température Min (°C)": 22.52,
-                "Humidité (%)": 31,
-                "Chance de Pluie (%)": 0
-            },
-            {
                 "Date": "2025-02-14 18:00:00",
-                "Température (°C)": 17.09,
-                "Température Max (°C)": 17.09,
-                "Température Min (°C)": 17.09,
-                "Humidité (%)": 48,
+                "Température (°C)": 20.58,
+                "Température Max (°C)": 20.58,
+                "Température Min (°C)": 16.57,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.46,
+                "Humidité (%)": 40,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-14 21:00:00",
-                "Température (°C)": 14.7,
-                "Température Max (°C)": 14.7,
-                "Température Min (°C)": 14.7,
-                "Humidité (%)": 57,
+                "Température (°C)": 17.13,
+                "Température Max (°C)": 17.13,
+                "Température Min (°C)": 14.41,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.18,
+                "Humidité (%)": 51,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 00:00:00",
-                "Température (°C)": 13.52,
-                "Température Max (°C)": 13.52,
-                "Température Min (°C)": 13.52,
-                "Humidité (%)": 61,
+                "Température (°C)": 13.24,
+                "Température Max (°C)": 13.24,
+                "Température Min (°C)": 13.24,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.14,
+                "Humidité (%)": 63,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 03:00:00",
-                "Température (°C)": 12.9,
-                "Température Max (°C)": 12.9,
-                "Température Min (°C)": 12.9,
-                "Humidité (%)": 58,
+                "Température (°C)": 12.42,
+                "Température Max (°C)": 12.42,
+                "Température Min (°C)": 12.42,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 1.19,
+                "Humidité (%)": 62,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 06:00:00",
-                "Température (°C)": 12.43,
-                "Température Max (°C)": 12.43,
-                "Température Min (°C)": 12.43,
-                "Humidité (%)": 52,
+                "Température (°C)": 11.86,
+                "Température Max (°C)": 11.86,
+                "Température Min (°C)": 11.86,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.43,
+                "Humidité (%)": 63,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 09:00:00",
-                "Température (°C)": 16.4,
-                "Température Max (°C)": 16.4,
-                "Température Min (°C)": 16.4,
-                "Humidité (%)": 41,
+                "Température (°C)": 16.52,
+                "Température Max (°C)": 16.52,
+                "Température Min (°C)": 16.52,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 1.82,
+                "Humidité (%)": 46,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 12:00:00",
-                "Température (°C)": 22.09,
-                "Température Max (°C)": 22.09,
-                "Température Min (°C)": 22.09,
-                "Humidité (%)": 29,
+                "Température (°C)": 21.29,
+                "Température Max (°C)": 21.29,
+                "Température Min (°C)": 21.29,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 2.09,
+                "Humidité (%)": 33,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 15:00:00",
-                "Température (°C)": 23.91,
-                "Température Max (°C)": 23.91,
-                "Température Min (°C)": 23.91,
-                "Humidité (%)": 22,
+                "Température (°C)": 23.23,
+                "Température Max (°C)": 23.23,
+                "Température Min (°C)": 23.23,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 1.51,
+                "Humidité (%)": 28,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 18:00:00",
+                "Température (°C)": 19.09,
+                "Température Max (°C)": 19.09,
+                "Température Min (°C)": 19.09,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 2.03,
+                "Humidité (%)": 36,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 21:00:00",
+                "Température (°C)": 16.45,
+                "Température Max (°C)": 16.45,
+                "Température Min (°C)": 16.45,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 1.36,
+                "Humidité (%)": 41,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 00:00:00",
+                "Température (°C)": 12.43,
+                "Température Max (°C)": 12.43,
+                "Température Min (°C)": 12.43,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 4.92,
+                "Humidité (%)": 61,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 03:00:00",
+                "Température (°C)": 12.16,
+                "Température Max (°C)": 12.16,
+                "Température Min (°C)": 12.16,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 1.3,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 06:00:00",
+                "Température (°C)": 10.55,
+                "Température Max (°C)": 10.55,
+                "Température Min (°C)": 10.55,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.57,
+                "Humidité (%)": 94,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 09:00:00",
+                "Température (°C)": 10.02,
+                "Température Max (°C)": 10.02,
+                "Température Min (°C)": 10.02,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 3.14,
+                "Humidité (%)": 75,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-16 12:00:00",
+                "Température (°C)": 14.43,
+                "Température Max (°C)": 14.43,
+                "Température Min (°C)": 14.43,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.7,
+                "Humidité (%)": 52,
+                "Chance de Pluie (%)": 80.0
+            },
+            {
+                "Date": "2025-02-16 15:00:00",
+                "Température (°C)": 15.81,
+                "Température Max (°C)": 15.81,
+                "Température Min (°C)": 15.81,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.22,
+                "Humidité (%)": 46,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 18:00:00",
+                "Température (°C)": 12.12,
+                "Température Max (°C)": 12.12,
+                "Température Min (°C)": 12.12,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 2.18,
+                "Humidité (%)": 73,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 21:00:00",
+                "Température (°C)": 11.83,
+                "Température Max (°C)": 11.83,
+                "Température Min (°C)": 11.83,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 0.81,
+                "Humidité (%)": 69,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 00:00:00",
+                "Température (°C)": 9.84,
+                "Température Max (°C)": 9.84,
+                "Température Min (°C)": 9.84,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 1.25,
+                "Humidité (%)": 75,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 03:00:00",
+                "Température (°C)": 9.04,
+                "Température Max (°C)": 9.04,
+                "Température Min (°C)": 9.04,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 1.54,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 06:00:00",
+                "Température (°C)": 8.54,
+                "Température Max (°C)": 8.54,
+                "Température Min (°C)": 8.54,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.15,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 09:00:00",
+                "Température (°C)": 11.97,
+                "Température Max (°C)": 11.97,
+                "Température Min (°C)": 11.97,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.32,
+                "Humidité (%)": 64,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 12:00:00",
+                "Température (°C)": 17.2,
+                "Température Max (°C)": 17.2,
+                "Température Min (°C)": 17.2,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 3.66,
+                "Humidité (%)": 48,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 15:00:00",
+                "Température (°C)": 19.57,
+                "Température Max (°C)": 19.57,
+                "Température Min (°C)": 19.57,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 3.8,
+                "Humidité (%)": 43,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 18:00:00",
+                "Température (°C)": 15.59,
+                "Température Max (°C)": 15.59,
+                "Température Min (°C)": 15.59,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 0.43,
+                "Humidité (%)": 57,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 21:00:00",
+                "Température (°C)": 13.87,
+                "Température Max (°C)": 13.87,
+                "Température Min (°C)": 13.87,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 0.95,
+                "Humidité (%)": 60,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 00:00:00",
+                "Température (°C)": 12.79,
+                "Température Max (°C)": 12.79,
+                "Température Min (°C)": 12.79,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1.09,
+                "Humidité (%)": 59,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 03:00:00",
+                "Température (°C)": 11.75,
+                "Température Max (°C)": 11.75,
+                "Température Min (°C)": 11.75,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 0.81,
+                "Humidité (%)": 59,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 06:00:00",
+                "Température (°C)": 10.77,
+                "Température Max (°C)": 10.77,
+                "Température Min (°C)": 10.77,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 1.31,
+                "Humidité (%)": 61,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 09:00:00",
+                "Température (°C)": 14.79,
+                "Température Max (°C)": 14.79,
+                "Température Min (°C)": 14.79,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 0.14,
+                "Humidité (%)": 49,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 12:00:00",
+                "Température (°C)": 19.82,
+                "Température Max (°C)": 19.82,
+                "Température Min (°C)": 19.82,
+                "Pression (hPa)": 1009,
+                "Vitesse du vent (m/s)": 2.65,
+                "Humidité (%)": 38,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 15:00:00",
+                "Température (°C)": 20.93,
+                "Température Max (°C)": 20.93,
+                "Température Min (°C)": 20.93,
+                "Pression (hPa)": 1006,
+                "Vitesse du vent (m/s)": 3.9,
+                "Humidité (%)": 37,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 18:00:00",
+                "Température (°C)": 12.37,
+                "Température Max (°C)": 12.37,
+                "Température Min (°C)": 12.37,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 7.39,
+                "Humidité (%)": 80,
+                "Chance de Pluie (%)": 54.0
+            },
+            {
+                "Date": "2025-02-18 21:00:00",
+                "Température (°C)": 10.64,
+                "Température Max (°C)": 10.64,
+                "Température Min (°C)": 10.64,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 5.55,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 00:00:00",
+                "Température (°C)": 10.08,
+                "Température Max (°C)": 10.08,
+                "Température Min (°C)": 10.08,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 4.2,
+                "Humidité (%)": 75,
+                "Chance de Pluie (%)": 80.0
+            },
+            {
+                "Date": "2025-02-19 03:00:00",
+                "Température (°C)": 9.07,
+                "Température Max (°C)": 9.07,
+                "Température Min (°C)": 9.07,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.29,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 06:00:00",
+                "Température (°C)": 8.63,
+                "Température Max (°C)": 8.63,
+                "Température Min (°C)": 8.63,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.93,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 09:00:00",
+                "Température (°C)": 12.52,
+                "Température Max (°C)": 12.52,
+                "Température Min (°C)": 12.52,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 1.96,
+                "Humidité (%)": 62,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 12:00:00",
+                "Température (°C)": 16.84,
+                "Température Max (°C)": 16.84,
+                "Température Min (°C)": 16.84,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 5.7,
+                "Humidité (%)": 43,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-19 15:00:00",
+                "Température (°C)": 15.4,
+                "Température Max (°C)": 15.4,
+                "Température Min (°C)": 15.4,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 7.06,
+                "Humidité (%)": 56,
                 "Chance de Pluie (%)": 0
             }
         ]
@@ -1303,324 +1623,404 @@
         "Ville": "Tanger",
         "Previsions": [
             {
-                "Date": "2025-02-10 18:00:00",
-                "Température (°C)": 20.83,
-                "Température Max (°C)": 20.83,
-                "Température Min (°C)": 15.56,
-                "Humidité (%)": 52,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-10 21:00:00",
-                "Température (°C)": 18.28,
-                "Température Max (°C)": 18.28,
-                "Température Min (°C)": 13.17,
-                "Humidité (%)": 63,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 00:00:00",
-                "Température (°C)": 15.16,
-                "Température Max (°C)": 15.16,
-                "Température Min (°C)": 12.32,
-                "Humidité (%)": 76,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 03:00:00",
-                "Température (°C)": 11.89,
-                "Température Max (°C)": 11.89,
-                "Température Min (°C)": 11.89,
-                "Humidité (%)": 88,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 06:00:00",
-                "Température (°C)": 11.64,
-                "Température Max (°C)": 11.64,
-                "Température Min (°C)": 11.64,
-                "Humidité (%)": 89,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 09:00:00",
-                "Température (°C)": 13.67,
-                "Température Max (°C)": 13.67,
-                "Température Min (°C)": 13.67,
-                "Humidité (%)": 80,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 12:00:00",
-                "Température (°C)": 18.41,
-                "Température Max (°C)": 18.41,
-                "Température Min (°C)": 18.41,
-                "Humidité (%)": 52,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 15:00:00",
-                "Température (°C)": 18.01,
-                "Température Max (°C)": 18.01,
-                "Température Min (°C)": 18.01,
-                "Humidité (%)": 49,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 18:00:00",
-                "Température (°C)": 15.34,
-                "Température Max (°C)": 15.34,
-                "Température Min (°C)": 15.34,
-                "Humidité (%)": 61,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-11 21:00:00",
-                "Température (°C)": 14.21,
-                "Température Max (°C)": 14.21,
-                "Température Min (°C)": 14.21,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 00:00:00",
-                "Température (°C)": 13.77,
-                "Température Max (°C)": 13.77,
-                "Température Min (°C)": 13.77,
-                "Humidité (%)": 60,
-                "Chance de Pluie (%)": 8.0
-            },
-            {
-                "Date": "2025-02-12 03:00:00",
-                "Température (°C)": 13.9,
-                "Température Max (°C)": 13.9,
-                "Température Min (°C)": 13.9,
-                "Humidité (%)": 72,
-                "Chance de Pluie (%)": 31.0
-            },
-            {
-                "Date": "2025-02-12 06:00:00",
-                "Température (°C)": 13.9,
-                "Température Max (°C)": 13.9,
-                "Température Min (°C)": 13.9,
-                "Humidité (%)": 81,
-                "Chance de Pluie (%)": 39.0
-            },
-            {
-                "Date": "2025-02-12 09:00:00",
-                "Température (°C)": 13.81,
-                "Température Max (°C)": 13.81,
-                "Température Min (°C)": 13.81,
-                "Humidité (%)": 84,
-                "Chance de Pluie (%)": 68.0
-            },
-            {
-                "Date": "2025-02-12 12:00:00",
-                "Température (°C)": 14.61,
-                "Température Max (°C)": 14.61,
-                "Température Min (°C)": 14.61,
-                "Humidité (%)": 73,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 15:00:00",
-                "Température (°C)": 15.26,
-                "Température Max (°C)": 15.26,
-                "Température Min (°C)": 15.26,
-                "Humidité (%)": 66,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 18:00:00",
-                "Température (°C)": 13.49,
-                "Température Max (°C)": 13.49,
-                "Température Min (°C)": 13.49,
-                "Humidité (%)": 69,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-12 21:00:00",
-                "Température (°C)": 12.79,
-                "Température Max (°C)": 12.79,
-                "Température Min (°C)": 12.79,
-                "Humidité (%)": 73,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 00:00:00",
-                "Température (°C)": 12.55,
-                "Température Max (°C)": 12.55,
-                "Température Min (°C)": 12.55,
-                "Humidité (%)": 78,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 03:00:00",
-                "Température (°C)": 12.18,
-                "Température Max (°C)": 12.18,
-                "Température Min (°C)": 12.18,
-                "Humidité (%)": 77,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 06:00:00",
-                "Température (°C)": 11.41,
-                "Température Max (°C)": 11.41,
-                "Température Min (°C)": 11.41,
-                "Humidité (%)": 79,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 09:00:00",
-                "Température (°C)": 13.18,
-                "Température Max (°C)": 13.18,
-                "Température Min (°C)": 13.18,
-                "Humidité (%)": 73,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 12:00:00",
-                "Température (°C)": 15.53,
-                "Température Max (°C)": 15.53,
-                "Température Min (°C)": 15.53,
-                "Humidité (%)": 62,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 15:00:00",
-                "Température (°C)": 15.37,
-                "Température Max (°C)": 15.37,
-                "Température Min (°C)": 15.37,
-                "Humidité (%)": 59,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 18:00:00",
-                "Température (°C)": 13.71,
-                "Température Max (°C)": 13.71,
-                "Température Min (°C)": 13.71,
-                "Humidité (%)": 69,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-13 21:00:00",
-                "Température (°C)": 13.13,
-                "Température Max (°C)": 13.13,
-                "Température Min (°C)": 13.13,
-                "Humidité (%)": 74,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 00:00:00",
-                "Température (°C)": 12.07,
-                "Température Max (°C)": 12.07,
-                "Température Min (°C)": 12.07,
-                "Humidité (%)": 76,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 03:00:00",
-                "Température (°C)": 11.34,
-                "Température Max (°C)": 11.34,
-                "Température Min (°C)": 11.34,
-                "Humidité (%)": 76,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 06:00:00",
-                "Température (°C)": 10.92,
-                "Température Max (°C)": 10.92,
-                "Température Min (°C)": 10.92,
-                "Humidité (%)": 82,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 09:00:00",
-                "Température (°C)": 13.18,
-                "Température Max (°C)": 13.18,
-                "Température Min (°C)": 13.18,
-                "Humidité (%)": 75,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 12:00:00",
-                "Température (°C)": 18.03,
-                "Température Max (°C)": 18.03,
-                "Température Min (°C)": 18.03,
-                "Humidité (%)": 56,
-                "Chance de Pluie (%)": 0
-            },
-            {
-                "Date": "2025-02-14 15:00:00",
-                "Température (°C)": 18.89,
-                "Température Max (°C)": 18.89,
-                "Température Min (°C)": 18.89,
-                "Humidité (%)": 54,
-                "Chance de Pluie (%)": 0
-            },
-            {
                 "Date": "2025-02-14 18:00:00",
-                "Température (°C)": 15.73,
-                "Température Max (°C)": 15.73,
-                "Température Min (°C)": 15.73,
-                "Humidité (%)": 68,
+                "Température (°C)": 18.43,
+                "Température Max (°C)": 18.43,
+                "Température Min (°C)": 16.32,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 2.26,
+                "Humidité (%)": 57,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-14 21:00:00",
-                "Température (°C)": 13.17,
-                "Température Max (°C)": 13.17,
-                "Température Min (°C)": 13.17,
-                "Humidité (%)": 77,
+                "Température (°C)": 16,
+                "Température Max (°C)": 16,
+                "Température Min (°C)": 14.26,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.42,
+                "Humidité (%)": 65,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 00:00:00",
-                "Température (°C)": 12.66,
-                "Température Max (°C)": 12.66,
-                "Température Min (°C)": 12.66,
-                "Humidité (%)": 77,
+                "Température (°C)": 13.34,
+                "Température Max (°C)": 13.34,
+                "Température Min (°C)": 13.34,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.08,
+                "Humidité (%)": 71,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 03:00:00",
-                "Température (°C)": 12.26,
-                "Température Max (°C)": 12.26,
-                "Température Min (°C)": 12.26,
-                "Humidité (%)": 76,
+                "Température (°C)": 12.77,
+                "Température Max (°C)": 12.77,
+                "Température Min (°C)": 12.77,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 2.76,
+                "Humidité (%)": 71,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 06:00:00",
-                "Température (°C)": 11.85,
-                "Température Max (°C)": 11.85,
-                "Température Min (°C)": 11.85,
-                "Humidité (%)": 74,
+                "Température (°C)": 12.71,
+                "Température Max (°C)": 12.71,
+                "Température Min (°C)": 12.71,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 2.11,
+                "Humidité (%)": 65,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 09:00:00",
-                "Température (°C)": 13.98,
-                "Température Max (°C)": 13.98,
-                "Température Min (°C)": 13.98,
-                "Humidité (%)": 62,
+                "Température (°C)": 14.49,
+                "Température Max (°C)": 14.49,
+                "Température Min (°C)": 14.49,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 2.93,
+                "Humidité (%)": 58,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 12:00:00",
-                "Température (°C)": 18.78,
-                "Température Max (°C)": 18.78,
-                "Température Min (°C)": 18.78,
-                "Humidité (%)": 46,
+                "Température (°C)": 18.64,
+                "Température Max (°C)": 18.64,
+                "Température Min (°C)": 18.64,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 2.84,
+                "Humidité (%)": 50,
                 "Chance de Pluie (%)": 0
             },
             {
                 "Date": "2025-02-15 15:00:00",
-                "Température (°C)": 19.27,
-                "Température Max (°C)": 19.27,
-                "Température Min (°C)": 19.27,
-                "Humidité (%)": 49,
+                "Température (°C)": 20.66,
+                "Température Max (°C)": 20.66,
+                "Température Min (°C)": 20.66,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 4.32,
+                "Humidité (%)": 47,
                 "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 18:00:00",
+                "Température (°C)": 16.91,
+                "Température Max (°C)": 16.91,
+                "Température Min (°C)": 16.91,
+                "Pression (hPa)": 1009,
+                "Vitesse du vent (m/s)": 4.79,
+                "Humidité (%)": 63,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-15 21:00:00",
+                "Température (°C)": 14.7,
+                "Température Max (°C)": 14.7,
+                "Température Min (°C)": 14.7,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 3.01,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 00:00:00",
+                "Température (°C)": 14.68,
+                "Température Max (°C)": 14.68,
+                "Température Min (°C)": 14.68,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 1.96,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 20.0
+            },
+            {
+                "Date": "2025-02-16 03:00:00",
+                "Température (°C)": 13.69,
+                "Température Max (°C)": 13.69,
+                "Température Min (°C)": 13.69,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 3.78,
+                "Humidité (%)": 82,
+                "Chance de Pluie (%)": 47.0
+            },
+            {
+                "Date": "2025-02-16 06:00:00",
+                "Température (°C)": 12.7,
+                "Température Max (°C)": 12.7,
+                "Température Min (°C)": 12.7,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 7.44,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 33.0
+            },
+            {
+                "Date": "2025-02-16 09:00:00",
+                "Température (°C)": 13.09,
+                "Température Max (°C)": 13.09,
+                "Température Min (°C)": 13.09,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 3.52,
+                "Humidité (%)": 72,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 12:00:00",
+                "Température (°C)": 16.59,
+                "Température Max (°C)": 16.59,
+                "Température Min (°C)": 16.59,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 5.34,
+                "Humidité (%)": 58,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 15:00:00",
+                "Température (°C)": 15.83,
+                "Température Max (°C)": 15.83,
+                "Température Min (°C)": 15.83,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 4.97,
+                "Humidité (%)": 64,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 18:00:00",
+                "Température (°C)": 14.59,
+                "Température Max (°C)": 14.59,
+                "Température Min (°C)": 14.59,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.75,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-16 21:00:00",
+                "Température (°C)": 13.17,
+                "Température Max (°C)": 13.17,
+                "Température Min (°C)": 13.17,
+                "Pression (hPa)": 1019,
+                "Vitesse du vent (m/s)": 1.18,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 00:00:00",
+                "Température (°C)": 12.27,
+                "Température Max (°C)": 12.27,
+                "Température Min (°C)": 12.27,
+                "Pression (hPa)": 1018,
+                "Vitesse du vent (m/s)": 1.66,
+                "Humidité (%)": 80,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 03:00:00",
+                "Température (°C)": 11.6,
+                "Température Max (°C)": 11.6,
+                "Température Min (°C)": 11.6,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 1.29,
+                "Humidité (%)": 77,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 06:00:00",
+                "Température (°C)": 11.24,
+                "Température Max (°C)": 11.24,
+                "Température Min (°C)": 11.24,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 0.63,
+                "Humidité (%)": 76,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 09:00:00",
+                "Température (°C)": 13.2,
+                "Température Max (°C)": 13.2,
+                "Température Min (°C)": 13.2,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 0.66,
+                "Humidité (%)": 71,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 12:00:00",
+                "Température (°C)": 16.57,
+                "Température Max (°C)": 16.57,
+                "Température Min (°C)": 16.57,
+                "Pression (hPa)": 1017,
+                "Vitesse du vent (m/s)": 2.62,
+                "Humidité (%)": 59,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 15:00:00",
+                "Température (°C)": 17.8,
+                "Température Max (°C)": 17.8,
+                "Température Min (°C)": 17.8,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 4.94,
+                "Humidité (%)": 55,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 18:00:00",
+                "Température (°C)": 15.37,
+                "Température Max (°C)": 15.37,
+                "Température Min (°C)": 15.37,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 4.81,
+                "Humidité (%)": 64,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-17 21:00:00",
+                "Température (°C)": 13.4,
+                "Température Max (°C)": 13.4,
+                "Température Min (°C)": 13.4,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 4.03,
+                "Humidité (%)": 79,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 00:00:00",
+                "Température (°C)": 12.82,
+                "Température Max (°C)": 12.82,
+                "Température Min (°C)": 12.82,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 4.23,
+                "Humidité (%)": 83,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 03:00:00",
+                "Température (°C)": 12.22,
+                "Température Max (°C)": 12.22,
+                "Température Min (°C)": 12.22,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 3.28,
+                "Humidité (%)": 84,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 06:00:00",
+                "Température (°C)": 12.07,
+                "Température Max (°C)": 12.07,
+                "Température Min (°C)": 12.07,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 3.05,
+                "Humidité (%)": 85,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 09:00:00",
+                "Température (°C)": 13.93,
+                "Température Max (°C)": 13.93,
+                "Température Min (°C)": 13.93,
+                "Pression (hPa)": 1011,
+                "Vitesse du vent (m/s)": 2.86,
+                "Humidité (%)": 73,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 12:00:00",
+                "Température (°C)": 18.2,
+                "Température Max (°C)": 18.2,
+                "Température Min (°C)": 18.2,
+                "Pression (hPa)": 1009,
+                "Vitesse du vent (m/s)": 6.02,
+                "Humidité (%)": 53,
+                "Chance de Pluie (%)": 0
+            },
+            {
+                "Date": "2025-02-18 15:00:00",
+                "Température (°C)": 13.68,
+                "Température Max (°C)": 13.68,
+                "Température Min (°C)": 13.68,
+                "Pression (hPa)": 1008,
+                "Vitesse du vent (m/s)": 11.37,
+                "Humidité (%)": 87,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 18:00:00",
+                "Température (°C)": 13.18,
+                "Température Max (°C)": 13.18,
+                "Température Min (°C)": 13.18,
+                "Pression (hPa)": 1010,
+                "Vitesse du vent (m/s)": 9.1,
+                "Humidité (%)": 91,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-18 21:00:00",
+                "Température (°C)": 12.72,
+                "Température Max (°C)": 12.72,
+                "Température Min (°C)": 12.72,
+                "Pression (hPa)": 1012,
+                "Vitesse du vent (m/s)": 4.98,
+                "Humidité (%)": 89,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 00:00:00",
+                "Température (°C)": 12.14,
+                "Température Max (°C)": 12.14,
+                "Température Min (°C)": 12.14,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 6.18,
+                "Humidité (%)": 91,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 03:00:00",
+                "Température (°C)": 12.15,
+                "Température Max (°C)": 12.15,
+                "Température Min (°C)": 12.15,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 6.07,
+                "Humidité (%)": 89,
+                "Chance de Pluie (%)": 42.0
+            },
+            {
+                "Date": "2025-02-19 06:00:00",
+                "Température (°C)": 11.83,
+                "Température Max (°C)": 11.83,
+                "Température Min (°C)": 11.83,
+                "Pression (hPa)": 1013,
+                "Vitesse du vent (m/s)": 6.55,
+                "Humidité (%)": 94,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 09:00:00",
+                "Température (°C)": 12.64,
+                "Température Max (°C)": 12.64,
+                "Température Min (°C)": 12.64,
+                "Pression (hPa)": 1014,
+                "Vitesse du vent (m/s)": 8.46,
+                "Humidité (%)": 93,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 12:00:00",
+                "Température (°C)": 13.63,
+                "Température Max (°C)": 13.63,
+                "Température Min (°C)": 13.63,
+                "Pression (hPa)": 1016,
+                "Vitesse du vent (m/s)": 6.79,
+                "Humidité (%)": 88,
+                "Chance de Pluie (%)": 100
+            },
+            {
+                "Date": "2025-02-19 15:00:00",
+                "Température (°C)": 14.46,
+                "Température Max (°C)": 14.46,
+                "Température Min (°C)": 14.46,
+                "Pression (hPa)": 1015,
+                "Vitesse du vent (m/s)": 6.03,
+                "Humidité (%)": 84,
+                "Chance de Pluie (%)": 61.0
             }
         ]
     }
