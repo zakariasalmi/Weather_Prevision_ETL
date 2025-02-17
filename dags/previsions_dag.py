@@ -11,7 +11,7 @@ from store_weather import store_weather_data # type: ignore
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime(2025, 2, 14),
+    'start_date': datetime(2025, 2, 17),
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
