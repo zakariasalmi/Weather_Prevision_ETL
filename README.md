@@ -39,8 +39,8 @@ Weather_Prevision_ETL/
     |__ Weather_data.json
     |__ Processed_Weather_data.csv       # chargement des données traitées dans un fichier csv
 |__ templates/
-    |__ index.html           l'interface web pour afficher les données.
-|__ app.py                   # app flask backend pour récuperer les données de l'api
+    |__ index.html           l interface web pour afficher les données.
+|__ app.py                   # app flask backend pour récuperer les données de l Api
 │── docker-compose.yml       # Configuration des services (Airflow, postgres)
 │── requirements.txt         # Dépendances Python
 ```
